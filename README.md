@@ -22,6 +22,9 @@ A README file will be generated in the same directory as the program.
 
 ### Built With
 Node.js - The JavaScript runtime used
-### Author
-Thomas Madden
-tommymaddog@hotmail.com
+### Collaborators
+This project was worked on in a group by <br/>
+https://github.com/ogwalrus <br/>
+https://github.com/NickJ13 <br/>
+https://github.com/mekael18 <br/>
+https://github.com/NyqEvo
