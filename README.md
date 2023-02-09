@@ -24,3 +24,4 @@ A README file will be generated in the same directory as the program.
 Node.js - The JavaScript runtime used
 ### Author
 Thomas Madden
+tommymaddog@hotmail.com

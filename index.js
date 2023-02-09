@@ -6,22 +6,22 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const prompt = [
     {
         type: 'input',
-        message: 'What is your GitHub username?',
+        message: 'Please enter your GitHub username',
         name: 'github'
     },
     {
         type: 'input',
-        message: 'What is your email?',
+        message: 'Please enter your email address',
         name: 'email'
     },
     {
         type: 'input',
-        message: 'What is the name of your project',
+        message: 'Please enter the name of your project',
         name: 'title'
     },
     {
         type: 'input',
-        message: 'What is the description of your project?',
+        message: 'Please enter a description of your project',
         name: 'description'
     },
     {
@@ -32,12 +32,12 @@ const prompt = [
     },
     {
         type: 'input',
-        message: 'What instructions should be added for installation?',
+        message: 'Please enter installation instructions for your project',
         name: 'installation'
     },
     {
         type: 'input',
-        message: 'How should this porject be used?',
+        message: 'How should this project be used?',
         name: 'usage'
     },
     {

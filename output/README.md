@@ -1,9 +1,9 @@
-# DOOKIE
+# TESTER
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
   
-  dook
+  desc
   
   ## Table of contents
   - [Description](##-Description)
@@ -15,15 +15,15 @@
   
   ## Installation
   
-  install
+  download
   
   ## Usage
   
-  porject
+  use
   
   ## Contribution Guidelines
   
-  c
+  help
   
   ## License
   
@@ -31,7 +31,7 @@
   
   ## Contact
   
-  github username: ogwalrus 
+  github username: tomnut 
 
-  email: tom@test.com
+  email: tomnut@gmail.com
   
